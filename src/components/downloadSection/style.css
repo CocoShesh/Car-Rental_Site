@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.download-section {
+  background-color: #f8f8f8;
+  background-image: url("https://car-rental-ten.vercel.app/static/media/bg02.3efbc4567749d0a5671e.png");
+  background-position: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+  padding: 10rem 0;
+  width: 100%;
+}
+
+.content {
+  font-family: "Poppins", sans-serif;
+}

@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.top {
+  background-image: url("https://car-rental-ten.vercel.app/static/media/heroes-bg.71ab9a13d73de3860763.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 22rem;
+
+  position: relative;
+  width: 100%;
+}
+.overlay {
+  background-color: hsla(0, 0%, 100%, 0.92);
+  height: 21.89rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}

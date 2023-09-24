@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: #f8f8f8;
+  height: 600px;
+  /* Note: This may not work in older versions of Firefox and Edge */
+}

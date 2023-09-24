@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap");
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.container {
+  background-color: #fff;
+  background-image: url("https://car-rental-ten.vercel.app/static/media/book-bg.6f629a1041e9fd9c6685.png");
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ant-modal-content {
+  padding-top: 1px !important;
+  padding-inline: 1px !important;
+  border-radius: 0 !important;
+}
+.ant-modal-close {
+  margin-inline-end: 5px;
+  margin-block: 2px;
+}
+.ant-modal-close-x {
+  color: white;
+}
+.ant-modal-footer {
+  display: none;
+}
+.header {
+  background-color: #ff4d30;
+  padding: 10px;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  font-weight: 700;
+  color: white;
+}

@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.clicked-header {
+  background-color: #ff4d30;
+  border: 1px solid #ff4d30;
+}
+
+.faq-section {
+  background-image: url("https://car-rental-ten.vercel.app/static/media/car.5e21eedbea3280311aff.png");
+  background-position: 0 70%;
+  background-repeat: no-repeat;
+  background-size: auto;
+  padding: 10rem 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
